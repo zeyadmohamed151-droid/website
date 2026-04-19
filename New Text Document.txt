@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+
+<head>
+<link rel="stylesheet" href="style.css" />
+</head>
+<body> 
+
+    <img 
+        src="https://kitchenconfidante.com/wp-content/uploads/2022/12/Eggnog-Milk-Tea-Boba-kitchenconfidante.com-4644-PHOTO-750x1124.jpg" 
+    />
+
+    <h1>Hey all</h1>    
+    <p>it's my first time so limme cook</p>
+    <p>will code for food drink or anything</p>
+
+</body>
+</html>
